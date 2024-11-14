@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on Generative Adversarial Network for Art Generation<br>**🤝** I’m looking for help with Efficient GAN models which can run in less time<br>**🌱 **I’m currently learning CyberSecurity<br>** 💬 **Ask me about Machine Learning<br>**⚡ **I'm a engineer by profession and writer by passion💖**
+🔭 **I’m currently working on Generative Adversarial Network for Art Generation<br>**🤝** I’m looking for help with Efficient GAN models which can run in less time<br>**🌱 **I’m currently learning CyberSecurity<br>** 💬 **Ask me about Machine Learning**<br>⚡ **I'm a engineer by profession and writer by passion💖**
 
 
 ## 🌐 Socials:
