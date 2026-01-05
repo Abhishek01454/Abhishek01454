@@ -1,88 +1,105 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,ff0080&height=250&section=header&text=Abhishek%20Sharma&fontSize=80&fontAlign=50&fontAlignY=35&desc=Engineer%20%7C%20Writer%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn)
+<!-- DYNAMIC HERO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Abhishek%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=33F7FF&center=true&vCenter=true&width=435&lines=Building+GANs+for+Art+Generation;Writing+Code+%26+Stories;Exploring+the+depths+of+Deep+Learning;Always+Learning+Something+New" alt="Typing SVG" />
-</a>
+<h3 align="center">AI / ML Engineer · LLM Systems · Generative Models</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhisheksharma04" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <i>Applied AI · Production over theory · Clean systems</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhisheksharma04">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/abhi_sharmaa14" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://instagram.com/abhi_sharmaa14">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-</div>
+---
+
+## ⚔️ Builder Mindset (Visual)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750074-8e3b9d3e-59c6-4cf3-9f62-7c47f93d8c4d.gif" width="360" />
+</p>
+
+<p align="center">
+  <sub>Focus · Iteration · Execution</sub>
+</p>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-    
-### ⚡ About Me
+## 🚀 What I Build
 
-> *"Any sufficiently advanced technology is indistinguishable from magic."*
-
-I am an **Engineer by profession** and a **Writer by passion**. I bridge the gap between creative storytelling and technical innovation. My current focus is heavily tilted towards **Generative AI** and **Computer Vision**.
-
-- 🔭 **Working on:** Optimizing GAN architectures for lower latency art generation.
-- 🌱 **Learning:** Advanced Cybersecurity protocols & Large Language Models (LLMs).
-- 🎨 **Hobbies:** Writing fiction, Anime, and Digital Art.
-- 💬 **Ask me about:** Machine Learning, Python, or Plot Construction.
-
-### 🛠️ The Arsenal (Tech Stack)
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&perline=6&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,pandas,numpy&perline=6&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,git,github,vscode&perline=6&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=md,ps,ai,pr&perline=6&theme=dark" />
-</div>
-
-   </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Y2I2eGh5Y2I2eGh5Y2I2eGh5Y2I2eGh5Y2I2eGh5Y2I2eGh5Jm1wPWc/LMc7w09x8qCR5gDqMh/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(127, 0, 255, 0.5);">
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=Abhishek01454&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Products-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GANs-AI_Art_&_Models-0D6EFD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Applied_ML-198754?style=for-the-badge"/>
+</p>
 
 ---
 
-### 📊 GitHub Statistics
+## 🧠 Tech Stack (Signal Only)
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek01454&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="800" />
-  </a>
-  
-  <br><br>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Java_(Working_Knowledge)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek01454&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek01454&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
+### ML / AI
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01454&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
+### Systems
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-2E3440?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Abhishek01454/Abhishek01454/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
+## 📊 Live GitHub Signal
 
-<div align="center">
-  <sub><i>Turned coffee into code since 2020</i></sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek01454&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01454&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
+
+---
+
+## 🎯 Current Direction
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Production_AI-198754?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scaling-ML_Systems-0D6EFD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Target-AI_Engineer_Role-6F42C1?style=for-the-badge"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
