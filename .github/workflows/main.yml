@@ -1,6 +1,7 @@
 # 🐍 GitHub Contribution Snake Animation
 # This workflow generates an animated snake that eats your contributions!
 # 
+
 name: Generate Snake Animation
 
 on:
@@ -19,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Abhishek01454
           outputs: |
