@@ -16,6 +16,7 @@
 ![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-5A29E4?style=flat)
 
 **Vector DBs & RAG**  
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 
@@ -73,7 +74,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Abhishek01454
           outputs: |
