@@ -16,7 +16,6 @@
 ![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-5A29E4?style=flat)
 
 **Vector DBs & RAG**  
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 
@@ -40,52 +39,8 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek01454&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01454&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek01454&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek01454/Abhishek01454/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek01454/Abhishek01454/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Abhishek01454/Abhishek01454/output/github-snake-dark.svg" />
-</picture>
-
-<details>
-<summary>⚙️ Snake Setup</summary>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Abhishek01454
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
