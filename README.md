@@ -38,8 +38,13 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01454&theme=github-dark-blue&hide_border=true" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek01454&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01454&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek01454&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
